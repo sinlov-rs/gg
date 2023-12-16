@@ -1,3 +1,5 @@
+[![github pages](https://github.com/sinlov-rs/gg/actions/workflows/deploy.yml/badge.svg)](https://github.com/sinlov-rs/gg/actions/workflows/deploy.yml)
+
 # GG
 
 > **GG: Gatsby + GitHub**
