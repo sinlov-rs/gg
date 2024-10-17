@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/qanda",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"how to add some discussion","number":3}}]}},"pageContext":{"category":{"name":"Q&A","emoji":":pray:","description":"Ask the community for help","isAnswerable":true},"name":"Q&A","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}
