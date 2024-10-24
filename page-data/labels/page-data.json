@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-nav-labels-tsx",
+    "path": "/labels",
+    "result": {"pageContext":{"labelsList":[{"id":"LA_kwDOK6MJhc8AAAABeUfpyQ","name":"good first issue","color":"7057ff","description":"Good for newcomers"},{"id":"LA_kwDOK6MJhc8AAAABeWXLHw","name":"config","color":"006B75","description":"repo config"}]}},
+    "staticQueryHashes": ["151096407","2861350382"]}
