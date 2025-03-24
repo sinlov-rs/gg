@@ -9,7 +9,7 @@ on:
     - cron: '0 20 * * *'
   # https://docs.github.com/en/enterprise-cloud@latest/actions/using-workflows/events-that-trigger-workflows#discussion
   #discussion:
-    #types: [created, edited, answered, deleted, transferred]
+  #types: [created, edited, answered, deleted, transferred]
 
 jobs:
   deploy:
@@ -27,7 +27,7 @@ jobs:
       - run: yarn copy
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           publish_dir: ./public
