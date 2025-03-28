@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>RSS</title>
+  <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+  <link>/</link>
+  <description>GitHub Discussions</description>
+  <item>
+  <title><![CDATA[how to add some discussion]]></title>
+  <link>https://github.com/sinlov-rs/gg/discussions/3</link>
+  <guid isPermaLink="false">https://github.com/sinlov-rs/gg/discussions/3</guid>
+  <pubDate>2023-12-16</pubDate>
+  <description><![CDATA[<p dir="auto">Q: baisc writing format<br>
+A:<br>
+markdown format</p>
+<p dir="auto">Q: style<br>
+A: please reading</p>
+<ul dir="auto">
+<li><a href="https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">github basic-writing-and-formatting-syntax</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[rgd.yml]]></title>
+  <link>https://github.com/sinlov-rs/gg/discussions/1</link>
+  <guid isPermaLink="false">https://github.com/sinlov-rs/gg/discussions/1</guid>
+  <pubDate>2023-12-16</pubDate>
+  <description><![CDATA[<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="### repo ###
+# github 用户名，支持个人或组织
+owner: sinlov-rs
+# github 仓库名称
+repo: gg
+
+### 可选配置，如果 type 为 `discussions2` 类型，才需要以下配置
+# type: `issues` | `discussions` | `discussions2`, default is `discussions`
+type: discussions
+
+### website 配置
+website:
+  # 1. 格式为 png 的 240x240 正方形图片
+  # 2. 在线图片 URL 地址，不设置则使用默认 logo
+  # logo: https://user-images.githubusercontent.com/16164244/162659556-64dd7da8-321f-4525-bbbf-975f02b4800f.png
+  # 网站标题
+  title: sinlov-rs
+  # 网站描述
+  description: A gatsby website for rust discussions
+
+### PWA Manifest 配置
+# https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest
+manifest:
+  name: sinlov-rs
+  short_name: sinlov-rs
+  start_url: /
+  background_color: '#fafafa'
+  theme_color: '#232629'
+  display: standalone
+  # 1. 格式为 png 的 240x240 正方形图片
+  # 2. 在线图片 URL 地址，不设置则使用默认 logo
+  # icon: https://avatars.githubusercontent.com/u/16164244?v=4
+  # icon: https://user-images.githubusercontent.com/16164244/162659556-64dd7da8-321f-4525-bbbf-975f02b4800f.png"><pre class="notranslate"><span class="pl-c"><span class="pl-c">#</span>## repo ###</span>
+<span class="pl-c"><span class="pl-c">#</span> github 用户名，支持个人或组织</span>
+<span class="pl-ent">owner</span>: <span class="pl-s">sinlov-rs</span>
+<span class="pl-c"><span class="pl-c">#</span> github 仓库名称</span>
+<span class="pl-ent">repo</span>: <span class="pl-s">gg</span>
+
+<span class="pl-c"><span class="pl-c">#</span>## 可选配置，如果 type 为 `discussions2` 类型，才需要以下配置</span>
+<span class="pl-c"><span class="pl-c">#</span> type: `issues` | `discussions` | `discussions2`, default is `discussions`</span>
+<span class="pl-ent">type</span>: <span class="pl-s">discussions</span>
+
+<span class="pl-c"><span class="pl-c">#</span>## website 配置</span>
+<span class="pl-ent">website</span>:
+  <span class="pl-c"><span class="pl-c">#</span> 1. 格式为 png 的 240x240 正方形图片</span>
+  <span class="pl-c"><span class="pl-c">#</span> 2. 在线图片 URL 地址，不设置则使用默认 logo</span>
+  <span class="pl-c"><span class="pl-c">#</span> logo: https://user-images.githubusercontent.com/16164244/162659556-64dd7da8-321f-4525-bbbf-975f02b4800f.png</span>
+  <span class="pl-c"><span class="pl-c">#</span> 网站标题</span>
+  <span class="pl-ent">title</span>: <span class="pl-s">sinlov-rs</span>
+  <span class="pl-c"><span class="pl-c">#</span> 网站描述</span>
+  <span class="pl-ent">description</span>: <span class="pl-s">A gatsby website for rust discussions</span>
+
+<span class="pl-c"><span class="pl-c">#</span>## PWA Manifest 配置</span>
+<span class="pl-c"><span class="pl-c">#</span> https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest</span>
+<span class="pl-ent">manifest</span>:
+  <span class="pl-ent">name</span>: <span class="pl-s">sinlov-rs</span>
+  <span class="pl-ent">short_name</span>: <span class="pl-s">sinlov-rs</span>
+  <span class="pl-ent">start_url</span>: <span class="pl-s">/</span>
+  <span class="pl-ent">background_color</span>: <span class="pl-s"><span class="pl-pds">'</span>#fafafa<span class="pl-pds">'</span></span>
+  <span class="pl-ent">theme_color</span>: <span class="pl-s"><span class="pl-pds">'</span>#232629<span class="pl-pds">'</span></span>
+  <span class="pl-ent">display</span>: <span class="pl-s">standalone</span>
+  <span class="pl-c"><span class="pl-c">#</span> 1. 格式为 png 的 240x240 正方形图片</span>
+  <span class="pl-c"><span class="pl-c">#</span> 2. 在线图片 URL 地址，不设置则使用默认 logo</span>
+  <span class="pl-c"><span class="pl-c">#</span> icon: https://avatars.githubusercontent.com/u/16164244?v=4</span>
+  <span class="pl-c"><span class="pl-c">#</span> icon: https://user-images.githubusercontent.com/16164244/162659556-64dd7da8-321f-4525-bbbf-975f02b4800f.png</span></pre></div>]]></description>
+</item>
+
+</channel>
+</rss>
