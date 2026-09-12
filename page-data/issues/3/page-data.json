@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/3",
+    "result": {"data":{"issuesJson":{"id":"e2222a4b-90bc-5b88-a112-cb4e5061ea5f","title":"how to add some discussion","number":3,"bodyHTML":"<p dir=\"auto\">Q: baisc writing format<br>\nA:<br>\nmarkdown format</p>\n<p dir=\"auto\">Q: style<br>\nA: please reading</p>\n<ul dir=\"auto\">\n<li><a href=\"https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\">github basic-writing-and-formatting-syntax</a></li>\n</ul>","updatedAt":"2023-12-16T10:19:35Z","upvoteCount":1,"author":{"login":"sinlov","avatarUrl":"https://avatars.githubusercontent.com/u/3433415?u=331d955f6e4109025c33e9215bf770d15674eea9&v=4","url":"https://github.com/sinlov"},"category":{"isAnswerable":true,"name":"Q&A","emoji":":pray:"},"labels":{"edges":[{"node":{"name":"good first issue","color":"7057ff"}}]},"comments":{"edges":[]}}},"pageContext":{"number":3,"next":null}},
+    "staticQueryHashes": ["151096407","2861350382"]}

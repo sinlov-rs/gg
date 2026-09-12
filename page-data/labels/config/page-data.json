@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/config",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"rgd.yml","number":1}}]}},"pageContext":{"labels":{"id":"LA_kwDOK6MJhc8AAAABeWXLHw","name":"config","color":"006B75","description":"repo config"},"name":"config","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}
